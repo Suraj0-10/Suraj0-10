@@ -6,5 +6,5 @@
      x HTML
      x JAVA
 - 📫 How to reach me : t.me/zaraki_00
-- 🤭 My College : VTU
+- 🤭 My College : VTU(1st year Engineering)
 
